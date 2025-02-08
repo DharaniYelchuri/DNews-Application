@@ -34,3 +34,10 @@ DNews is a modern news application built with **React** that fetches the latest 
 <br>  
 
 ![image](https://github.com/user-attachments/assets/29ae534f-a2df-4af9-aeb5-3dd0478fed38)  
+<br>
+## Contributing 
+Feel free to contribute to this project by creating issues or submitting pull requests.
+
+## Acknowledgments
+
+Newsdata.io for providing data
